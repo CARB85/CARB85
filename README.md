@@ -48,7 +48,7 @@
 
 ### 🌍 **Let's Connect**
 📧 **Email:** [cristianarb85@hotmail.com](mailto:cristianarb85@hotmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/cristianramirezburitica]((https://www.linkedin.com/in/cristianramirezburitica)  
+🔗 **LinkedIn:** [linkedin.com/in/cristianramirezburitica](https://www.linkedin.com/in/cristianramirezburitica)  
 
 ---
 
