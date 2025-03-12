@@ -38,9 +38,22 @@
 ---
 
 ### 📂 **Highlighted Projects**
-🌟 **[Project 1 - Customer Churn Prediction](#)** → A classification model to predict customer retention in the banking sector.  
-🌟 **[Project 2 - Sales Analysis](#)** → Data exploration and customer segmentation for marketing optimization.  
-🌟 **[Project 3 - Fraud Detection](#)** → Implementing ML algorithms to detect fraudulent transactions.  
+🌟 **[Rusty Bargain, Vehicle Valuation Model](URL_DEL_PROYECTO_1)**:  
+  Developed a machine learning model to estimate used vehicle market values.  
+  Compared regression, random forest, and gradient boosting algorithms (**LightGBM, CatBoost, XGBoost**).  
+  Achieved optimal accuracy with **LightGBM**, balancing prediction precision and computational efficiency using **RMSE** as the primary metric.  
+
+🌟 **[Sweet Lift Taxi, Demand Prediction](URL_DEL_PROYECTO_2)**:  
+  Created a predictive model for hourly taxi demand at airports.  
+  Optimized machine learning algorithms to achieve an **RMSE below 48**, enabling efficient driver allocation and improved service availability during peak hours.  
+
+🌟 **[Film Junky Union, Sentiment Analysis](URL_DEL_PROYECTO_3)**:  
+  Designed a system to identify negative movie reviews using **machine learning and NLP techniques**.  
+  Achieved an **F1 score above 0.85**, streamlining review filtering and enhancing user experience.  
+
+🌟 **[Good Seed Supermarkets, Age Verification](URL_DEL_PROYECTO_4)**:  
+  Implemented a deep learning model to estimate customer age from facial images.  
+  Ensured **legal compliance** by accurately predicting ages for alcohol purchases, improving the chain’s adherence to regulations.  
 
 📍 *Find more projects on my [GitHub](https://github.com/YourGitHubUsername)*  
 
