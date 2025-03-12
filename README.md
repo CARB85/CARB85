@@ -37,6 +37,13 @@
 
 ---
 
+### 🖥️ **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
 ### 📂 **Highlighted Projects**
 🌟 **[Rusty Bargain, Vehicle Valuation Model](https://github.com/CARB85/Data_scientist_projects/tree/Project-12-Market-Value-Prediction-for-Used-Cars)**:  
   Developed a machine learning model to estimate used vehicle market values.  
