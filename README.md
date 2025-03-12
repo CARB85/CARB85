@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!  
+# 👋 Hey there, I'm Cristian Ramirez!  
 
 ## 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast  
 
