@@ -43,15 +43,15 @@
   Compared regression, random forest, and gradient boosting algorithms (**LightGBM, CatBoost, XGBoost**).  
   Achieved optimal accuracy with **LightGBM**, balancing prediction precision and computational efficiency using **RMSE** as the primary metric.  
 
-🌟 **[Sweet Lift Taxi, Demand Prediction](URL_DEL_PROYECTO_2)**:  
+🌟 **[Sweet Lift Taxi, Demand Prediction](https://github.com/CARB85/Data_scientist_projects/tree/Project-13-Taxi-Order-Prediction-for-Peak-Hours)**:  
   Created a predictive model for hourly taxi demand at airports.  
   Optimized machine learning algorithms to achieve an **RMSE below 48**, enabling efficient driver allocation and improved service availability during peak hours.  
 
-🌟 **[Film Junky Union, Sentiment Analysis](URL_DEL_PROYECTO_3)**:  
+🌟 **[Film Junky Union, Sentiment Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-14-Movie-Review-Sentiment-Classification)**:  
   Designed a system to identify negative movie reviews using **machine learning and NLP techniques**.  
   Achieved an **F1 score above 0.85**, streamlining review filtering and enhancing user experience.  
 
-🌟 **[Good Seed Supermarkets, Age Verification](URL_DEL_PROYECTO_4)**:  
+🌟 **[Good Seed Supermarkets, Age Verification](https://github.com/CARB85/Data_scientist_projects/tree/Project-15-Age-Verification-with-Computer-Vision)**:  
   Implemented a deep learning model to estimate customer age from facial images.  
   Ensured **legal compliance** by accurately predicting ages for alcohol purchases, improving the chain’s adherence to regulations.  
 
