@@ -7,8 +7,6 @@
        alt="Data Science GIF" width="500px">
 </p>
 
-
-
 📊 Transforming data into insights, models into predictions, and numbers into strategic decisions.  
 💡 Passionate about **AI, Machine Learning, and Data Visualization**.  
 
@@ -20,7 +18,8 @@
 📌 **Databases:** PostgreSQL, MySQL 
 📌 **Tools:** Git, Jupyter Notebook, Streamlit  
 
-📊 GitHub Analytics
+--- 
+### 📊 GitHub Analytics
 ---
 
 ### 📈 **GitHub Stats**
