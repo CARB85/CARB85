@@ -38,7 +38,7 @@
 ---
 
 ### 📂 **Highlighted Projects**
-🌟 **[Rusty Bargain, Vehicle Valuation Model](URL_DEL_PROYECTO_1)**:  
+🌟 **[Rusty Bargain, Vehicle Valuation Model](https://github.com/CARB85/Data_scientist_projects/tree/Project-12-Market-Value-Prediction-for-Used-Cars)**:  
   Developed a machine learning model to estimate used vehicle market values.  
   Compared regression, random forest, and gradient boosting algorithms (**LightGBM, CatBoost, XGBoost**).  
   Achieved optimal accuracy with **LightGBM**, balancing prediction precision and computational efficiency using **RMSE** as the primary metric.  
