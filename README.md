@@ -47,9 +47,8 @@
 ---
 
 ### 🌍 **Let's Connect**
-📧 **Email:** [youremail@example.com](mailto:youremail@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-🐦 **Twitter/X:** [@yourusername](https://twitter.com/yourusername)  
+📧 **Email:** [cristianarb85@hotmail.com](mailto:cristianarb85@hotmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/cristianramirezburitica]((https://www.linkedin.com/in/cristianramirezburitica)  
 
 ---
 
