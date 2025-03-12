@@ -1,43 +1,59 @@
-<!-- Banner superior -->
-<img src="https://your-image-url.com/banner.png" alt="Banner Personalizado" width="100%">
+<!-- Full-width banner (centered) -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+</p>
 
-# 👋 ¡Hola, soy [Tu Nombre]!  
+# 👋 Hey there, I'm [Your Name]!  
 
-## 🚀 Data Scientist | Machine Learning & AI | Data Storyteller  
+## 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast  
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
+</p>
 
-📊 Transformo datos en conocimiento, modelos en predicciones y números en decisiones estratégicas.
-
----
-
-### 🛠 **Tecnologías & Herramientas**
-🖥 **Lenguajes:**  
-<span style="color:#3572A5">Python</span>, <span style="color:#F34B7D">SQL</span>, <span style="color:#276DC3">R</span>
-
-📈 **Bibliotecas:**  
-`Pandas` | `NumPy` | `Scikit-Learn` | `TensorFlow` | `PyTorch` | `Matplotlib` | `Seaborn`  
-
-🛠 **Cloud & Big Data:**  
-AWS | Google Cloud | Spark | Hadoop  
+📊 Transforming data into insights, models into predictions, and numbers into strategic decisions.  
+💡 Passionate about **AI, Machine Learning, and Data Visualization**.  
 
 ---
 
-### 🎯 **Mis Proyectos**
-🌟 **[Predicción de abandono de clientes](#)** - Modelo de ML para prever clientes que podrían dejar el servicio.  
-🌟 **[Análisis de Ventas](#)** - Exploración de datos para mejorar estrategias comerciales.  
-🌟 **[Detección de Fraude](#)** - Algoritmos para identificar transacciones sospechosas.  
-
-📍 *Más proyectos en mi [GitHub](https://github.com/TuUsuario)*  
-
----
-
-### 🌍 **Conectemos**
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🐦 **Twitter/X:** [@tuusuario](https://twitter.com/tuusuario)  
+### 🛠 **Tech Stack & Tools**  
+📌 **Languages:** Python, SQL, R  
+📌 **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
+📌 **Databases:** PostgreSQL, MySQL, MongoDB  
+📌 **Cloud & Big Data:** AWS, Google Cloud, Spark, Hadoop  
+📌 **Tools:** Git, Docker, Jupyter Notebook, Streamlit  
 
 ---
 
-✨ _"Los datos cuentan historias, solo hay que saber escucharlos."_  
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" width="48%">
+</p>
 
+---
+
+### 🔥 **Top Repositories**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
+### 📂 **Highlighted Projects**
+🌟 **[Project 1 - Customer Churn Prediction](#)** → A classification model to predict customer retention in the banking sector.  
+🌟 **[Project 2 - Sales Analysis](#)** → Data exploration and customer segmentation for marketing optimization.  
+🌟 **[Project 3 - Fraud Detection](#)** → Implementing ML algorithms to detect fraudulent transactions.  
+
+📍 *Find more projects on my [GitHub](https://github.com/YourGitHubUsername)*  
+
+---
+
+### 🌍 **Let's Connect**
+📧 **Email:** [youremail@example.com](mailto:youremail@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+🐦 **Twitter/X:** [@yourusername](https://twitter.com/yourusername)  
+
+---
+
+✨ _"Data tells stories, we just need to listen."_  
