@@ -18,8 +18,6 @@
 📌 **Databases:** PostgreSQL, MySQL 
 📌 **Tools:** Git, Jupyter Notebook, Streamlit  
 
---- 
-### 📊 GitHub Analytics
 ---
 
 ### 📈 **GitHub Stats**
