@@ -55,7 +55,7 @@
   Implemented a deep learning model to estimate customer age from facial images.  
   Ensured **legal compliance** by accurately predicting ages for alcohol purchases, improving the chain’s adherence to regulations.  
 
-📍 *Find more projects on my [GitHub](https://github.com/YourGitHubUsername)*  
+📍 *Find more projects on my [GitHub](https://github.com/CARB85/Data_scientist_projects)*  
 
 ---
 
