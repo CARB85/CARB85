@@ -20,6 +20,7 @@
 📌 **Databases:** PostgreSQL, MySQL 
 📌 **Tools:** Git, Jupyter Notebook, Streamlit  
 
+📊 GitHub Analytics
 ---
 
 ### 📈 **GitHub Stats**
@@ -38,22 +39,26 @@
 ---
 
 ### 📂 **Highlighted Projects**
-🌟 **[Rusty Bargain, Vehicle Valuation Model](https://github.com/CARB85/Data_scientist_projects/tree/Project-12-Market-Value-Prediction-for-Used-Cars)**:  
-  Developed a machine learning model to estimate used vehicle market values.  
-  Compared regression, random forest, and gradient boosting algorithms (**LightGBM, CatBoost, XGBoost**).  
-  Achieved optimal accuracy with **LightGBM**, balancing prediction precision and computational efficiency using **RMSE** as the primary metric.  
+🚗 **[Rusty Bargain, Vehicle Valuation Model](https://github.com/CARB85/Data_scientist_projects/tree/Project-12-Market-Value-Prediction-for-Used-Cars)**:  
+  * Developed a machine learning model to estimate used vehicle market values.  
+  * Compared regression, random forest, and gradient boosting algorithms (**LightGBM, CatBoost, XGBoost**).  
+  * Achieved optimal accuracy with **LightGBM**, balancing prediction precision and computational efficiency using **RMSE** as the primary metric.  
+  📊 Tech: Python, Scikit-Learn, LightGBM, Matplotlib
 
-🌟 **[Sweet Lift Taxi, Demand Prediction](https://github.com/CARB85/Data_scientist_projects/tree/Project-13-Taxi-Order-Prediction-for-Peak-Hours)**:  
-  Created a predictive model for hourly taxi demand at airports.  
-  Optimized machine learning algorithms to achieve an **RMSE below 48**, enabling efficient driver allocation and improved service availability during peak hours.  
+🚕 **[Sweet Lift Taxi, Demand Prediction](https://github.com/CARB85/Data_scientist_projects/tree/Project-13-Taxi-Order-Prediction-for-Peak-Hours)**:  
+  * Created a predictive model for hourly taxi demand at airports.  
+  * Optimized machine learning algorithms to achieve an **RMSE below 48**, enabling efficient driver allocation and improved service availability during peak hours.
+  * 📊 Tech: Python, XGBoost, Pandas, Seaborn 
 
-🌟 **[Film Junky Union, Sentiment Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-14-Movie-Review-Sentiment-Classification)**:  
-  Designed a system to identify negative movie reviews using **machine learning and NLP techniques**.  
-  Achieved an **F1 score above 0.85**, streamlining review filtering and enhancing user experience.  
+🎥 **[Film Junky Union, Sentiment Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-14-Movie-Review-Sentiment-Classification)**:  
+  * Designed a system to identify negative movie reviews using **machine learning and NLP techniques**.  
+  * Achieved an **F1 score above 0.85**, streamlining review filtering and enhancing user experience.
+  * 📊 Tech: Python, Scikit-Learn, NLTK, Seaborn
 
-🌟 **[Good Seed Supermarkets, Age Verification](https://github.com/CARB85/Data_scientist_projects/tree/Project-15-Age-Verification-with-Computer-Vision)**:  
-  Implemented a deep learning model to estimate customer age from facial images.  
-  Ensured **legal compliance** by accurately predicting ages for alcohol purchases, improving the chain’s adherence to regulations.  
+🛒 **[Good Seed Supermarkets, Age Verification](https://github.com/CARB85/Data_scientist_projects/tree/Project-15-Age-Verification-with-Computer-Vision)**:  
+  * Implemented a deep learning model to estimate customer age from facial images.  
+  * Ensured **legal compliance** by accurately predicting ages for alcohol purchases, improving the chain’s adherence to regulations.
+  * 📊 Tech: Python, TensorFlow, Matplotlib 
 
 📍 *Find more projects on my [GitHub](https://github.com/CARB85/Data_scientist_projects)*  
 
