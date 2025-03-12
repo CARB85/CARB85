@@ -9,8 +9,11 @@
 ## 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN5cjh0MGtob2h6a2JudXUwanlvdDZsdTExeW9sMjlxYTNkdmw3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" 
+       alt="Data Science GIF" width="500px">
 </p>
+
+
 
 📊 Transforming data into insights, models into predictions, and numbers into strategic decisions.  
 💡 Passionate about **AI, Machine Learning, and Data Visualization**.  
