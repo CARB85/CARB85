@@ -1,7 +1,9 @@
 <!-- Full-width banner (centered) -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+  <img src="[https://your-image-url.com/banner.png](https://media.istockphoto.com/id/2157709105/photo/data-fabric-ai-artificial-intelligence-powered-analytics-data-data-verse-big-data-data.jpg?s=1024x1024&w=is&k=20&c=vuJCpsRs3L8qLxjmVaStzXCZfQ1_jmoPq_unw3COyY4=)" alt="Banner" width="100%">
 </p>
+
+
 
 # 👋 Hey there, I'm [Your Name]!  
 
