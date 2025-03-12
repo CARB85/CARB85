@@ -1,9 +1,3 @@
-<!-- Full-width thin banner (centered) -->
-<p align="center">
-  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-       alt="Data Science Banner" width="100%" height="20px">
-</p>
-
 # 👋 Hey there, I'm [Your Name]!  
 
 ## 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast  
@@ -21,11 +15,10 @@
 ---
 
 ### 🛠 **Tech Stack & Tools**  
-📌 **Languages:** Python, SQL, R  
+📌 **Languages:** Python, SQL  
 📌 **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
-📌 **Databases:** PostgreSQL, MySQL, MongoDB  
-📌 **Cloud & Big Data:** AWS, Google Cloud, Spark, Hadoop  
-📌 **Tools:** Git, Docker, Jupyter Notebook, Streamlit  
+📌 **Databases:** PostgreSQL, MySQL 
+📌 **Tools:** Git, Jupyter Notebook, Streamlit  
 
 ---
 
